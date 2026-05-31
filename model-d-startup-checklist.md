@@ -110,7 +110,7 @@
 - [ ] Add basic **analytics** (Plausible/GA) and a **lead-capture/email signup**
 
 ### LinkedIn (your primary outreach channel)
-- [ ] Optimize your **personal profile**: headline = positioning one-liner, About section = value props + the India/tariff angle, banner image, professional photo
+- [ ] Optimize your **personal profile**: headline = positioning one-liner, About section = value props + the India/tariff angle, banner image, professional photo — **ready-to-use copy in [linkedin-profile-template.md](linkedin-profile-template.md)**
 - [ ] Create a **company page** for your LLC
 - [ ] Decide on **LinkedIn Sales Navigator** (worth it for filtered prospecting — start the trial when you're ready to prospect, not before)
 - [ ] Connect with relevant people (existing network first, then targeted) to warm up the account before heavy outreach
