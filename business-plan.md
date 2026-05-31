@@ -2,6 +2,10 @@
 
 A detailed, practical guide for starting an electronics export business from India to the USA, written for an experienced IT professional transitioning into a new business.
 
+> **Read this first — how to use the numbers in this doc.** Every margin %, duty rate, cost, and timeline here is **illustrative**, meant to show you how the math works, not to predict your results. Two things in particular:
+> - **Gross vs. net margin are not the same thing.** Gross margin is before advertising (PPC), returns, storage, and overhead. *Net* margin after all of that is usually **far lower** — mature Amazon electronics brands often live at **10–25% net**, not the headline gross numbers. This doc labels which is which; trust the net figures, treat gross as a ceiling you rarely hit.
+> - **Duties and regulations are product-specific and change.** Confirm the exact HTS duty for *your* product at [hts.usitc.gov](https://hts.usitc.gov), and verify current rules (especially the CPSC eFiling change below) before you rely on them. This is not legal, tax, or customs advice — use a licensed customs broker and an accredited test lab for binding decisions.
+
 ---
 
 ## Table of Contents
@@ -27,28 +31,52 @@ A detailed, practical guide for starting an electronics export business from Ind
 
 ## 1. Business Model Options
 
+> Margin figures below distinguish **gross** (before PPC/returns/overhead) from **net** (after everything). The gap is large in electronics — plan around the net numbers.
+
 ### Model A: Private Label / Own Brand (Best Long-Term)
 You source electronics from Indian manufacturers, apply your own brand, and sell under your label on Amazon or Shopify. Higher margins, full brand control, but requires more upfront investment in branding, compliance, and MOQs.
 
-**Best for:** Someone willing to invest 6–12 months before first sale. Margin potential: 35–60%.
+**Margins:** Gross 35–55%; **realistic net 12–25%** after PPC (often 10–20% of revenue), returns, storage, and overhead.
+**Capital & timeline:** Highest upfront ($15k–$40k+ for one compliant SKU done properly); 6–12 months to meaningful revenue.
+**Best for:** Someone willing to invest before first sale and build a durable asset.
 
-### Model B: White Label Reselling
-You source existing products, relabel minimally, and sell. Faster to market, lower differentiation. Common entry point for first-timers.
+### Model B: White Label / Light Branding
+You source existing products, relabel minimally, and sell. Faster to market, lower differentiation. Common entry point for first-timers. **Note:** in electronics the **compliance burden (FCC/UL/ETL/CPSC) is essentially identical to private label** — relabeling does not reduce your legal obligations as importer. What's lower is the *design and branding* investment, not the regulatory one.
 
-**Best for:** Testing the market before committing to private label. Margin potential: 20–40%.
+**Margins:** Gross 20–40%; **realistic net 8–18%**.
+**Capital & timeline:** Moderate ($10k–$20k); fastest path to a first sale.
+**Best for:** Validating a category before committing to private label.
 
 ### Model C: B2B Wholesale / Distributor Model
-You identify U.S. retailers, electronics distributors, or corporate buyers and supply them in bulk. Lower margins per unit but larger order values, no consumer returns headache.
+You import and sell in bulk to U.S. retailers, installers, electrical/electronics distributors, or institutional buyers (e.g., schools). Lower per-unit margin, larger order values, far fewer consumer returns, no Amazon suspension risk.
 
-**Best for:** If you have existing business relationships or can reach buyers. Margin potential: 10–25% but at volume.
+**Margins:** Gross 15–30%; **net 8–20%** but on larger order values.
+**Capital & timeline:** Variable; depends on buyer terms (you may get POs before you commit deep inventory).
+**Best for:** Someone comfortable doing business outreach and managing relationships — which plays to your strengths.
 
-### Model D: OEM / Contract Manufacturing for U.S. Companies
-U.S. companies outsource manufacturing to India; you act as the sourcing agent or trading house. Asset-light, fee/commission based.
+### Model D: OEM / Sourcing Agent for U.S. Companies (Lowest-Capital On-Ramp)
+You act as a sourcing/trading partner: help U.S. companies get electronics manufactured in India, earning a commission or markup. **You hold little or no inventory and don't have to be Importer of Record**, so you avoid the two biggest risks of the other models — capital tied up in stock and personal compliance/liability exposure.
 
-**Best for:** IT professionals with existing network who want to start part-time. Margin: commission 5–12%.
+**Margins:** Commission/fee typically 5–12% of order value (or a negotiated markup).
+**Capital & timeline:** Lowest — can be started for a few hundred dollars; revenue depends entirely on landing clients.
+**Best for:** *Exactly your profile* — U.S.-based, IT-literate (you can be the systems/process layer a factory lacks), and fluent in Indian supplier dynamics. This is a credible **first** track, not just a sideline.
 
-### Recommendation
-Start with **Model B (white label)** on Amazon to validate demand, then transition to **Model A (private label)** once you have winning SKUs. Keep **Model D** as an opportunistic parallel track since your IT background gives you credibility with tech companies.
+### Model Comparison
+
+| Model | Capital Intensity | Complexity | Margin Potential (net) | Risk | Side-Business Fit |
+|---|---|---|---|---|---|
+| A — Private Label | High | High | Medium–High (12–25%) | High | Moderate |
+| B — White Label | Medium | Medium–High | Low–Medium (8–18%) | Medium–High | Good |
+| C — B2B Wholesale | Medium (PO-dependent) | Medium | Low–Medium (8–20%) | Medium | Good |
+| D — Sourcing Agent | Very Low | Low–Medium | Fee 5–12% | Low | Excellent |
+
+### Recommendation (realistic, for your profile)
+Run **two tracks in parallel:**
+
+1. **Primary inventory track — start with Model B (white label) on Amazon** to learn the full import-and-sell loop on one low-complexity, non-wireless SKU, then graduate winners into **Model A (private label)**. Budget the real net-margin expectations above, not the gross.
+2. **Low-capital track — Model D (sourcing agent), in parallel.** Because it needs almost no capital and no inventory, it's the rational place to start *first* if your starting capital is under ~$10k, and it generates cash and supplier relationships while your inventory track is still in research. Your IT background and India familiarity are a genuine edge here.
+
+Treat **Model C** as where some product categories (industrial LED, components, STEM kits for schools) naturally pull you over time — not a day-one choice.
 
 ---
 
@@ -58,50 +86,59 @@ Start with **Model B (white label)** on Amazon to validate demand, then transiti
 
 | Filter | Question to Ask |
 |---|---|
-| Compliance burden | Does it require FCC, UL, ETL, FDA, or CPSC certification? |
-| Commoditization risk | Is it already flooded on Amazon with Chinese sellers? |
-| Tariff rate | What's the Section 301 / HTS duty rate from India? |
-| Return rate risk | Electronics that fail trigger 30%+ return rates and account suspension |
-| IP exposure | Does it touch any patented technology? |
-| India manufacturing edge | Does India have a genuine cost or quality edge here? |
+| Compliance burden | Does it require FCC, UL/ETL, CPSC, or DOE certification? (FDA if any health angle — avoid those for now.) |
+| Commoditization risk | Is it already flooded on Amazon with entrenched Chinese sellers? |
+| Tariff/duty | What's the MFN/HTS duty rate from India for this exact product? (See the Section 301 note below.) |
+| Return rate risk | Electronics that fail trigger high return rates and Amazon account-health problems |
+| IP exposure | Does it touch any patented technology or invite Amazon IP complaints? |
+| India manufacturing edge | Does India have a genuine cost, quality, or non-tariff edge here? |
+
+**On Section 301 / the "India advantage":** China-specific Section 301 surcharges (commonly 7.5–25% on top of normal duty) do **not** apply to goods made in India, and for many consumer-electronics categories that is a real, material cost edge over Chinese sellers. But it is **not universal** — some categories carry low most-favored-nation (MFN) duty for *both* origins, so the edge shrinks to near zero. Never assume; look up your specific HTS code at [hts.usitc.gov](https://hts.usitc.gov). Treat India's tariff position as *a significant structural advantage you must verify per product*, not a blanket win.
 
 ---
 
 ## 3. Electronics Categories: Comparative Table
 
-| Category | Difficulty | Margin Potential | Compliance Burden | Beginner Suitability | India Advantage |
+> **Margin column is *gross* (before PPC, returns, overhead).** Realistic net is typically **roughly half** of the gross range shown once you load in advertising and returns. Compliance notes are directional — confirm for your specific product.
+
+| Category | Difficulty | Gross Margin Potential | Compliance Burden | Beginner Suitability | India Advantage |
 |---|---|---|---|---|---|
 | Passive cables & adapters | Low | Low (10–20%) | Low | Good | Moderate |
-| LED lighting (non-smart) | Low–Medium | Medium (25–40%) | Medium (FCC, CPSC) | Good | Strong |
-| Mobile accessories (cases, chargers) | Medium | Medium (25–45%) | Medium (FCC for chargers) | Fair | Strong |
-| PCB-based IoT devices | High | High (40–60%) | High (FCC Part 15) | Poor | Strong |
-| Industrial sensors / automation | High | Very High (50–70%) | Very High | Poor for beginners | Moderate |
+| LED lighting (non-smart) | Low–Medium | Medium (25–40%) | Medium (UL/ETL; LED drivers may need FCC Part 15) | Good | Strong |
+| Mobile accessories (cases, chargers) | Medium | Medium (25–45%) | Medium (FCC + UL for chargers) | Fair | Strong |
+| PCB-based IoT devices | High | High (40–60%) | High (FCC Part 15 + safety) | Poor | Strong |
+| Industrial sensors / automation | High | Very High (50–70%) | High & fragmented (UL + industry-specific; often not FCC) | Poor for beginners | Moderate |
 | Audio accessories (wired) | Low–Medium | Medium (30–50%) | Low–Medium | Good | Moderate |
 | Solar-powered gadgets | Medium | Medium–High (35–55%) | Medium | Fair | Strong |
-| EV accessories (cables, adapters) | Medium | High (40–60%) | Medium–High | Fair | Growing |
-| Educational electronics / STEM kits | Low–Medium | Medium (35–50%) | Low–Medium | Very Good | Strong |
-| PCB assemblies / components (B2B) | Medium | Medium (20–35%) | Low for components | Good for B2B | Very Strong |
+| EV accessories (cables, adapters) | Medium | High (40–60%) | Medium–High (UL 2594 / related EVSE standards) | Fair | Growing |
+| Educational electronics / STEM kits | Low–Medium | Medium (35–50%) | Low–Medium (CPC if marketed to under-12s) | Very Good | Strong |
+| PCB assemblies / components (B2B) | Medium | Medium (20–35%) | Low for bare components | Good for B2B | Very Strong |
+
+**Better first bets for a beginner:** wired audio, passive cables, non-smart LED, STEM kits, and B2B industrial LED — all low RF complexity and lower return-risk. **"Later only":** wireless/IoT devices, smart-home gear, and complex EV charging equipment, all of which add FCC ID work, higher failure rates, and heavier support burden.
 
 ---
 
 ## 4. Recommended First Product Shortlist
 
-### Tier 1: Start Here (Low Risk, Viable Margins)
+> India has established electronics/EMS contract manufacturers across clusters such as Bengaluru, Pune, Hyderabad, the NCR (Noida/Greater Noida), and Tamil Nadu (Hosur/Chennai). Use those as search filters — but verify capability *per category and per supplier* rather than assuming a city guarantees a given product.
 
-1. **Wired audio accessories** — Headphones, earphones with mic, instrument cables. India has strong manufacturing in Pune/Hyderabad. No wireless = no FCC complexity. Target niche: studio monitors, musical instruments.
+### Tier 1: Start Here (Low RF Complexity, Lower Return-Risk)
 
-2. **LED grow lights / horticultural LED panels** — India's LED manufacturing is strong. Niche markets (indoor gardening, cannabis cultivation states) pay premium. FCC not required for non-wireless LEDs; need UL/ETL for safety (manageable).
+1. **Wired audio accessories** — Headphones, earphones with mic, instrument/patch cables. Wired-only means no FCC RF certification. *Compliance:* low (CPSC general conformity; no mains power). *Price band:* ~$15–$50 on Amazon. *Channel:* B2C Amazon, with a niche angle (studio monitoring, musicians) to dodge commodity price wars.
 
-3. **STEM/educational electronics kits** — Arduino-based learning kits, soldering kits, electronics experiment boxes. Targeted at homeschoolers, schools. India has excellent PCB assembly capability. Low return risk, strong Amazon category.
+2. **LED grow lights / horticultural LED panels** — Niche buyers (indoor gardening) pay a premium. *Compliance:* UL/ETL for the mains-powered driver is the real requirement; the switching driver is also an **unintentional radiator** that may need FCC Part 15 Subpart B testing — confirm, don't assume "non-wireless = no FCC." Large retailers may also ask about photobiological safety (IEC 62471). *Price band:* ~$40–$120. *Channel:* Amazon B2C, later B2B to growers.
 
-4. **EV charging cables (Type 1/Type 2, J1772)** — Exploding market in USA. India manufacturers are scaling. Compliance is manageable (UL 2594 standard). Durable goods = low return rate.
+3. **STEM/educational electronics kits** — Arduino-based kits, soldering kits, experiment boxes. Strong fit for India's PCB-assembly strength; low return-risk; durable demand from homeschoolers and schools. *Compliance:* low–medium, **but a Children's Product Certificate (CPC) is required if you market to under-12s** — many STEM kits are sold to teens/adults to sidestep this; decide your audience deliberately. *Price band:* ~$25–$80. *Channel:* Amazon B2C; schools are a natural B2B extension.
 
-5. **Industrial/commercial LED fixtures (B2B)** — Bypass consumer channel entirely. Sell direct to electrical contractors, warehouses. India is extremely competitive here. No Amazon race-to-the-bottom.
+4. **EV charging cables / adapters (Type 1/Type 2, J1772)** — Growing U.S. market; durable goods = low return rate. *Compliance:* medium–high — UL 2594 covers EV supply equipment, but related EVSE standards may apply depending on the exact product; treat this as a "verify the full standard set" category, not "just UL 2594." *Price band:* ~$80–$300. *Channel:* Amazon B2C and B2B to installers.
 
-### Tier 2: Once You Have Cash Flow
-- Smart home devices (require FCC ID — more complex)
+5. **Industrial/commercial LED fixtures (B2B)** — Bypass the consumer channel entirely; sell to electrical contractors and warehouses where India is genuinely competitive and there's no Amazon race-to-the-bottom. *Compliance:* UL/ETL plus possible DOE energy-efficiency requirements. *Channel:* B2B/wholesale — different MOQ, packaging, and documentation than Amazon.
+
+### Tier 2: Only After You Have Experience and Cash Flow
+- Smart-home / wireless IoT devices (require full FCC ID authorization — longer, costlier)
+- Complex EV charging gear (stations, higher-power EVSE)
 - Solar charge controllers
-- PCB assemblies for U.S. electronics manufacturers
+- PCB assemblies for U.S. electronics manufacturers (a natural Model C/D extension)
 
 ---
 
@@ -121,20 +158,23 @@ Start with **Model B (white label)** on Amazon to validate demand, then transiti
 
 ### CPSC (Consumer Product Safety Commission)
 - Applies to consumer products. Electronics sold to consumers must comply with CPSC regulations.
-- Requires a Children's Product Certificate (CPC) if targeted at children under 12.
-- General Conformity Certificate required for other consumer products.
+- A **General Certificate of Conformity (GCC)** is required for general-use consumer products; a **Children's Product Certificate (CPC)** is required if the product is designed/marketed for children under 12 (and triggers third-party testing).
+- **DOE** energy-conservation standards apply to certain products (e.g., external power supplies/chargers, some lighting) — check if yours is covered.
+
+> ### ⚠️ Major change — CPSC mandatory eFiling, effective **July 8, 2026**
+> Starting **July 8, 2026** (and **January 8, 2027** for goods entering via a Foreign-Trade Zone), CPSC requires importers to **electronically file the data elements of the GCC/CPC certificate in ACE at the time of entry** for products under flagged HTS codes (CPSC published ~600 flagged codes in January 2026). Practically, for a small electronics importer this means:
+> - You must have a **clean, accurate GCC/CPC ready before the goods arrive** — not assembled after the fact.
+> - Your **customs broker needs the certificate data** to transmit via the ACE PGA message set (you can file the full message set per entry, or reference a certificate stored in CPSC's voluntary Product Registry).
+> - Missing or sloppy certificate data can cause **holds and delays at the border** — exactly the kind of cash-flow hit a thin first launch can't absorb.
+> - **Action:** confirm whether your product's HTS code is on the flagged list, and coordinate with your broker early. *Dates and scope can shift — verify against CPSC.gov before relying on this.*
 
 ### Customs / HTS Codes and Duties
 
-**Key point: India is NOT subject to Section 301 tariffs** (those target China). This is your single biggest competitive advantage over Chinese sellers in 2024–2026.
+**India is not subject to China's Section 301 tariffs.** For many consumer-electronics categories this is a real cost edge over Chinese sellers — but it is **product-specific, not automatic** (see the Section 301 note in §2). The only way to know your real duty is to classify your exact product.
 
-Typical duty rates for electronics from India:
-- Most consumer electronics: **0–3.5%** (most-favored-nation rates)
-- LED lighting products: **3.5–5%**
-- Cables and connectors: **0–2.6%**
-- Certain semiconductor devices: **0%**
+*Illustrative only — do not rely on these; confirm your HTS code:* many consumer-electronics categories fall in the **low single digits (roughly 0–5%) MFN**, some cables/components are duty-free, and rates vary widely by classification.
 
-Use the **HTS (Harmonized Tariff Schedule)** lookup at usitc.gov to get exact rates. Always classify correctly — misclassification is a customs violation.
+Use the **HTS lookup at [hts.usitc.gov](https://hts.usitc.gov)** to get the exact rate. Misclassification is a customs violation — when in doubt, get a binding ruling or have your broker classify it.
 
 ### Import Process
 - You need a **U.S. Customs Bond** (continuous bond ~$600/year or single-entry bond)
@@ -196,6 +236,8 @@ Use the **HTS (Harmonized Tariff Schedule)** lookup at usitc.gov to get exact ra
 - Ask for **OEM/private label capability** upfront if that's your direction
 - Build a relationship with one key contact, not just the salesperson
 
+> **Proportionality note:** for a very first low-value trial order (a handful of units), you can relax some of the heavier checks (full factory audit, capacity stress-testing). But **never relax on legal export status (IEC/GSTIN) or on verifiable core certifications** — those are non-negotiable at any order size.
+
 ### Red Flags
 - Supplier quotes FCC/UL certification but can't provide certificate numbers
 - Unwilling to do video factory tour
@@ -222,14 +264,16 @@ Use the **HTS (Harmonized Tariff Schedule)** lookup at usitc.gov to get exact ra
 
 ### Phase 2: Lightweight Validation (Week 3–6, Low Cost)
 
-**Option A: Dropship Test**
-Source 10–20 units from an Indian supplier at sample price. List on eBay or Amazon (FBM, not FBA). No brand investment. Measure: Does it sell? At what price? What questions do buyers ask?
+> **Do not run "fake-order" tests** — i.e., taking customers' money for stock you don't have and then refunding or marking "out of stock." It's deceptive, breaks Amazon/Shopify/payment-processor policies, and can get your accounts frozen. The methods below get the same demand signal honestly.
 
-**Option B: Shopify + Paid Traffic**
-Build a Shopify store in 1 day. Run $200–$500 in Meta or Google ads targeting relevant keywords. Measure: Click-through rate, add-to-cart rate, conversion rate. Do not fulfill orders — offer a refund or say "out of stock." Controversial but effective for pure demand testing.
+**Option A: Small real-inventory test**
+Buy 10–20 units at sample price and list them for real on eBay or Amazon (FBM, not FBA). No brand investment. You're selling actual product, so this is clean. Measure: does it sell, at what price, and what do buyers ask?
 
-**Option C: LinkedIn Outreach (for B2B)**
-If targeting distributors or corporate buyers, send 50 cold LinkedIn messages to procurement managers or electronics buyers at mid-size companies. Measure: Response rate, interest level, pricing questions.
+**Option B: Landing page + waitlist (no money taken for absent stock)**
+Build a simple Shopify/landing page and run $200–$500 of Meta/Google ads to it. Instead of a checkout for stock you don't hold, use a **"Notify me when available" email capture** or a **clearly-labeled pre-order with an honest ETA** (and the ability to cancel/refund freely). Measure: click-through, and the rate at which visitors give you their email / commit. A strong waitlist is a real demand signal you can act on.
+
+**Option C: LinkedIn / direct outreach (for B2B)**
+If targeting distributors or corporate buyers, send ~50 personalized messages to procurement or electronics buyers at mid-size companies. Measure: response rate, interest, and pricing questions. Your IT background gives you credibility here — lead with that.
 
 ### Phase 3: Real Market Test (Month 2–3)
 
@@ -248,6 +292,8 @@ Landed Cost = Factory Price + Export Packing + Freight (India to USA)
 ```
 
 ### Example: LED Grow Light Panel (500-unit order)
+
+> **Illustrative assumptions only.** Your factory price, freight, fees, duty, and especially PPC and return rates will differ — and PPC in a competitive launch often runs higher than the 8% ACoS shown here. Build this as a live spreadsheet with your own quotes, and stress-test it at 15–20% PPC and a higher return rate before you commit.
 
 | Cost Component | Per Unit | Notes |
 |---|---|---|
@@ -268,7 +314,7 @@ Landed Cost = Factory Price + Export Packing + Freight (India to USA)
 | **Net Profit per Unit** | **$8.97** | |
 | **Net Margin** | **17.9%** | |
 
-**At 500 units:** Net profit = $4,485 on $9,000 investment. That's a 50% ROI on inventory if it sells out in 60–90 days.
+**At 500 units:** Net profit ≈ $4,485 on ~$9,000 of inventory *if* it sells through at these assumptions in 60–90 days. Note the number that matters is the **~18% net margin**, not the 26% gross — and if PPC runs at 18% instead of 8%, net margin roughly halves. Model the pessimistic case first.
 
 ### Key Margin Levers
 - **Negotiate FOB price down 10%:** Adds ~$1.50/unit
@@ -386,9 +432,9 @@ Year 2:     Retail / wholesale partnerships
 ## 11. Major Risks — Honest Assessment
 
 ### Regulatory Risk (High Impact)
-**The risk:** FCC violation products can be seized by CBP. You can face significant fines. Amazon can permanently suspend your account for selling non-compliant products.
+**The risk:** Non-compliant products can be seized by CBP and you can face significant fines; Amazon can permanently suspend your account. **New for 2026:** the **CPSC eFiling requirement (effective July 8, 2026)** means certificate (GCC/CPC) data must be filed electronically in ACE at entry for flagged HTS codes — bad or missing certificate data now causes border holds, not just paperwork problems later.
 
-**Mitigation:** Never sell wireless/RF products without proper FCC authorization. Get UL/ETL for anything with a power supply. Budget compliance testing into your landed cost from day one.
+**Mitigation:** Never sell wireless/RF products without proper FCC authorization. Get UL/ETL for anything with a power supply. Budget compliance testing into landed cost from day one. **Have your GCC/CPC prepared and coordinated with your broker before goods ship**, check whether your HTS code is on CPSC's flagged list, and re-verify the eFiling rules against CPSC.gov as the date approaches (scope/dates can change).
 
 ### Quality and Returns Risk (High Probability for Beginners)
 **The risk:** Electronics have high failure rates. Amazon penalizes high return rates. A 10%+ return rate signals account health issues. One bad batch can wipe out margin.
@@ -454,7 +500,9 @@ Add: FCC compliance for one product ($2,000–$5,000), UL/ETL listing ($3,000–
 **Total: $35,000–$60,000**
 
 ### Bottom Line
-You can start seriously for **$15,000–$20,000** targeting one compliant, non-wireless product. Do not start with less than $10,000 — you'll run out before you have data to make good decisions.
+For the **physical-inventory path**, you can start seriously for **$15,000–$20,000** on one compliant, non-wireless product. Below ~$10,000 on this path you'll likely run out before you have enough data to make good decisions — so if you start there, do it deliberately: smaller batch, narrower scope, and accept that progress and statistical confidence will be limited.
+
+If capital is tight, the better move isn't a starved inventory launch — it's to **start on the Model D sourcing-agent track** (a few hundred dollars) and/or a **micro eBay/FBM test** to build cash and supplier relationships first, then fund the inventory path from there.
 
 ---
 
@@ -477,13 +525,14 @@ You need 9–12 months before you'll know if this works. That's 9–12 months of
 - Evenings and weekends for supplier calls to India (IST is +10:30 from EST — morning India time = your evening)
 - This is very manageable for a disciplined IT professional
 
-**When to go full-time:**
-- You have 2+ SKUs consistently selling $15,000+/month in revenue
-- Gross margin is proven at 25%+
-- You have 3+ months of operating capital in the business bank account
-- You have qualified backup suppliers for your winning products
+**When to go full-time (quantitative criteria):**
+- 2+ SKUs consistently selling **$15,000+/month** in revenue
+- **Net** margin (after PPC, returns, overhead) proven at **15%+** — not just gross
+- **3+ months** of operating capital sitting in the business account
+- Qualified **backup suppliers** for your winning products (no single point of failure)
+- A repeatable process you can hand off or systematize (your IT strength)
 
-This point typically comes in month 12–18 for disciplined operators.
+This point typically comes in month 12–18 for disciplined operators — and the Model D track may hit replaceable-income criteria sooner, since it carries no inventory drag.
 
 ---
 
@@ -605,4 +654,4 @@ Start focused. One product. Do it properly. Let the data tell you what to scale.
 
 ---
 
-*Last updated: May 2026*
+*Last updated: May 2026. Reflects the CPSC eFiling requirement effective July 8, 2026 — verify current rules before relying on any regulatory or duty figure here.*

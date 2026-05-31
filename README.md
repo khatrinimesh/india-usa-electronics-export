@@ -36,7 +36,7 @@ This is not a theoretical exercise. The goal is a real, operating business.
 
 | Document | Description |
 |---|---|
-| [Business Plan](business-plan.md) | Full research plan covering business models, product selection, compliance, sourcing, demand validation, landed cost math, sales channels, 90-day launch plan, risk assessment, and startup capital |
+| [Business Plan](business-plan.md) | Full research plan covering business models, product selection, compliance, sourcing, demand validation, landed cost math, sales channels, 90-day launch plan, risk assessment, and startup capital. Revised to label gross vs. net margins honestly, promote the low-capital sourcing-agent model, replace deceptive demand tests with ethical ones, and flag the CPSC eFiling rule (effective July 8, 2026) |
 
 ---
 
