@@ -37,6 +37,11 @@
 
 ### Foundational homework
 - [ ] Read the full [Model D playbook](model-d-sourcing-agent.md) and [business-plan.md](business-plan.md)
+- [ ] **Study how real operators run this model** — work through [reference-operators-to-learn-from.md](reference-operators-to-learn-from.md):
+  - [ ] Listen to several of Meghla Bhardwaj's podcast/webinar appearances (densest free India-sourcing playbook)
+  - [ ] Read AISG's and Panoramic Sourcing's websites like a competitor (positioning, service tiers, pricing cues)
+  - [ ] Watch 1–2 "how to be a sourcing agent" videos for operational mechanics (vetting, negotiation, QC)
+  - [ ] Connect with 3–5 of them on LinkedIn with a specific, genuine note
 - [ ] Watch/read 3–5 walkthroughs of the India→U.S. import process end to end
 - [ ] Skim CBP and CPSC sites; bookmark the **HTS lookup** at hts.usitc.gov
 - [ ] Understand the **CPSC eFiling change (effective July 8, 2026)** so you can speak to it with clients
