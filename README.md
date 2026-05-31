@@ -39,9 +39,34 @@ This is not a theoretical exercise. The goal is a real, operating business.
 | [Business Plan](business-plan.md) | The master plan: business models, product selection, compliance, sourcing, demand validation, landed-cost math, sales channels, 90-day plan, risks, and capital. Shared reference for all the model playbooks below. |
 | [Model D — Sourcing Agent](model-d-sourcing-agent.md) | **Lowest-capital, best-fit starting point.** Help U.S. companies manufacture in India for a commission/fee. Detailed lead-generation playbook (import-records mining, LinkedIn, hardware startups, productized offers) + delivery workflow. |
 | [Model C — B2B Wholesale](model-c-b2b-wholesale.md) | Import in bulk and sell to U.S. businesses (contractors, distributors, schools). Detailed playbook for generating B2B demand: direct outreach, rep networks, trade shows, government/institutional procurement, sample-led selling. |
-| [Model B — White Label](model-b-white-label.md) | Light-branded products sold direct to consumers on Amazon FBA. Detailed playbook for generating demand: winning Amazon search/PPC, niche differentiation, external traffic (TikTok/creators), and multi-channel expansion. |
+| [Model B — White Label](model-b-white-label.md) | Light-branded products sold direct to consumers on Amazon FBA. Detailed playbook for generating demand: winning Amazon search/PPC, niche differentiation, external traffic (TikTok/creators), and multi-channel expansion. Includes its central challenges + how to deal with them. |
+| [Model A — Private Label](model-a-private-label.md) | The **endgame, not the starting point.** Own-brand products with the highest margin and the only real moat — but the most capital and time. Covers why it's deferred, and the specific green lights for *when* to commit to it. |
 
-> **Note:** Private label / own brand (Model A) is intentionally not pursued — it's the most capital- and time-intensive path and a poor fit for a capital-light, side-business start. The three playbooks above are the active strategies.
+> **Note:** Private label (Model A) is deliberately the destination, not the start — it's the most capital- and time-intensive path. The active strategies are D → C → B, which bootstrap cash, supplier relationships, and validated demand before any large capital commitment.
+
+---
+
+## How the Paths Fit Together (Progression Map)
+
+These aren't four separate businesses — they're stages of one, ordered by capital and risk. Each funds and de-risks the next.
+
+```
+   START                                                          ENDGAME
+   ┌─────────┐      ┌──────────────┐      ┌──────────────┐      ┌──────────────┐
+   │ D        │ ───▶ │ C            │ ───▶ │ B            │ ───▶ │ A            │
+   │ Sourcing │      │ B2B          │      │ White Label  │      │ Private      │
+   │ Agent    │      │ Wholesale    │      │ (Amazon)     │      │ Label        │
+   └─────────┘      └──────────────┘      └──────────────┘      └──────────────┘
+   ~$0 capital       inventory+terms       inventory+PPC          $15k–40k+/SKU
+   cash in weeks     recurring, sticky      B2C reach/margin       margin + moat
+```
+
+- **Start: D (Sourcing Agent)** — near-zero capital, cash in weeks. Use it to build a vetted supplier bench and learn the chain. Structure it around *project fees and buy/sell deals* because pure commission gets disintermediated.
+- **D → C (B2B Wholesale)** — when a category shows repeatable demand, stock it and sell on your own invoice. The buy/sell structure also solves D's disintermediation problem. The durable home for a sourcing relationship.
+- **D/C → B (White Label)** — when a *consumer* product shows demand, launch your own Amazon SKU using the supplier and cash you've built. The most competitive channel — enter funded, not cold.
+- **B → A (Private Label)** — only after a white-label SKU is a *proven* net-margin winner. Then commit capital to your own brand to capture premium pricing and a defensible, sellable asset.
+
+You can run tracks in **parallel** (e.g., D for cash while C builds), but capital flows *forward* along this chain — validate cheap, commit expensive last. Each model doc has its own **"central challenges & how to deal"** and **"when to move"** sections.
 
 ---
 

@@ -15,6 +15,26 @@
 
 ---
 
+## ⚠️ The central challenge: disintermediation (read before you fall in love with this)
+
+A sourcing agent who *just makes an introduction* and collects a commission is the easiest role in the chain to delete. Both sides are motivated to cut you out:
+- The **buyer** thinks "why pay 8% forever when I can email the factory directly after order one?"
+- The **factory** thinks "why share margin when I can sell to this U.S. buyer directly?" Indian and Chinese factories routinely reach around agents.
+
+And the risk is worst exactly when it matters: **it scales with order size and frequency.** Small, occasional orders aren't worth the hassle of going direct. Large recurring programs are — and by then the buyer has both the incentive *and* the competence (they've learned the factory, the process, the time-zone dance) to remove you. **A pure agent tends to get cut out precisely when the account becomes valuable.** Non-circumvention agreements (NCNDA) exist but are weak in practice — slow and expensive to enforce across borders against a small client. Treat them as deterrent theater, not protection.
+
+**Conclusion: "land a client, collect a perpetual commission" is mostly a fantasy.** This model earns its place as a *bootstrap*, not a forever-business.
+
+### How to actually defend against it (ranked by how real the protection is)
+
+1. **Be the seller of record, not the introducer (buy/sell markup).** Buy from the factory, sell to the client on *your* invoice; the client may never see the factory's name. Nothing to circumvent. **But note the tradeoff:** this turns you from an asset-light agent into a small trading company taking on inventory and payment risk — i.e., it converts you toward [Model C](model-c-b2b-wholesale.md). The asset-light pitch and the defensibility are in tension.
+2. **Own QC, logistics, and financing.** If you inspect every batch, consolidate shipments, handle the import, and float terms, going direct means the buyer takes all that risk back in-house. Many won't — as long as the hassle you remove exceeds your fee.
+3. **Manage a multi-supplier program, not one SKU.** Orchestrating five factories and being the single point of accountability is hard to delete. One product from one factory is trivial to delete.
+4. **Add engineering/compliance value** the factory can't — spec development, FCC/UL/CPSC navigation, DFM feedback. This is where your IT/systems background is genuinely sticky.
+5. **Favor project-based flat fees over recurring commission.** Get paid *before* disintermediation is even possible (see the "Sourcing Sprint" offer below), rather than betting on a recurring cut you'll probably lose.
+
+---
+
 ## How you get paid (pick per deal)
 
 | Model | How it works | Typical range | Best when |
@@ -132,6 +152,13 @@ List a concrete, flat-fee service (e.g., on your site, and where founders hang o
 
 ---
 
-## Why start here
+## Why start here — and when to move on
 
-Model D can be **cash-positive in weeks**, needs almost no capital, teaches you the entire India→U.S. supply chain on someone else's dime, and builds the exact supplier bench and market knowledge you'd need to later run your own [white-label](model-b-white-label.md) or [B2B](model-c-b2b-wholesale.md) inventory business. It's the rational first move.
+Model D can be **cash-positive in weeks**, needs almost no capital, teaches you the entire India→U.S. supply chain on someone else's dime, and builds the exact supplier bench and market knowledge you'd need for the other models. That's why it's the rational *first* move — **as a bootstrap, structured around project fees and buy/sell deals, with eyes open about disintermediation.**
+
+**When to move on:**
+- **D → [C (B2B wholesale)](model-c-b2b-wholesale.md):** the moment you spot a category with *repeatable* demand from your sourcing work. Convert the relationship into buy/sell — stock the product and sell it on your own invoice. This is the durable endgame: it solves disintermediation by removing the factory from the buyer's view. Your instinct that C is sturdier than D is correct.
+- **D → [B (white label)](model-b-white-label.md):** if your sourcing work surfaces a *consumer* product with demand, use the vetted supplier to launch your own Amazon SKU and capture B2C margin.
+- **Don't try to scale D as a pure agency.** Past a handful of clients, a commission-only agent hits a ceiling and a rising disintermediation rate. Scaling means becoming a trading company (C) or a brand (B/A) — i.e., owning inventory and the customer relationship.
+
+Think of D as the **on-ramp that funds and de-risks** the inventory models — not the destination.

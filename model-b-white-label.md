@@ -18,6 +18,30 @@ If you're capital-light, consider running [Model D (sourcing agent)](model-d-sou
 
 ---
 
+## ⚠️ The hard parts: central challenges & how to deal
+
+This is the most competitive of your three paths. Go in clear-eyed about why beginners fail here:
+
+1. **You're fighting entrenched Chinese sellers on their home turf.** They often have a lower cost basis, deep review moats (thousands of ratings), and a willingness to run near-zero or negative margin to defend rank. A generic "me-too" listing loses by default.
+   - **Deal with it:** never list a commodity. Win on a *specific niche/angle* (a bundle that doesn't exist, a use-case variant, a spec/quality upgrade with the certs spelled out). Mine competitors' 1–3 star reviews for their #1 complaint and fix exactly that. Verify a real India duty edge per HTS before counting on price.
+
+2. **Platform dependency — Amazon holds the leverage.** They can suspend your account, change fees, surface their own brand above yours, or let hijackers/counterfeiters onto your listing. Your whole business can wobble on one policy email.
+   - **Deal with it:** strict compliance and honest reviews (never buy/incentivize — fastest path to suspension); enroll in Brand Registry for protection; respond to performance notifications within hours; and **build an off-Amazon asset** (email/SMS list, own Shopify) so you're not 100% hostage to the platform.
+
+3. **Thin real margin, hidden by gross.** Headline gross (20–40%) collapses to **~8–18% net** once FBA fees, the ~15% referral, PPC (often 10–20% of revenue at launch), and returns hit. Many beginners discover this *after* ordering.
+   - **Deal with it:** model net at **18% PPC + elevated return rate** *before* you order; kill any product that doesn't clear ~15% net. Run PPC like an engineer — your data discipline is the edge here.
+
+4. **Cash-flow whipsaw.** You pay for inventory + freight + duty + PPC upfront; Amazon pays you on a delay; returns arrive ~30 days later. Profitable-on-paper, cash-negative-in-reality is the norm.
+   - **Deal with it:** start small (100–300 units); don't over-order on optimism; keep a buffer; reinvest only from proven winners.
+
+5. **Amazon owns the customer, not you.** You rarely get the buyer's contact info, so there's little repeat-purchase or brand equity by default.
+   - **Deal with it:** capture buyers via package inserts (warranty registration, bonus guide — never a review incentive) into a list you own; this is what eventually turns a white-label SKU into a real brand.
+
+6. **The cold-start problem.** New listings have no reviews and no rank, so they don't convert, so they don't rank — a chicken-and-egg trap.
+   - **Deal with it:** seed honest reviews via Amazon Vine + Request-a-Review; drive *external* traffic (TikTok/creators/Attribution) to kick-start velocity; budget for a deliberate launch-PPC push.
+
+---
+
 ## Best first products (low RF complexity, lower return-risk)
 
 From [business-plan.md §4](business-plan.md): wired audio accessories, non-smart LED, STEM kits (decide your age-target re: CPC), passive cables/adapters. These minimize FCC work and consumer-return headaches — the two things that kill beginner Amazon electronics sellers.
@@ -124,6 +148,13 @@ Capture buyers into an email/SMS list via **package inserts** (offer a warranty 
 
 ---
 
-## How this connects to the other models
+## How this connects — and when to move
 
-White label teaches consumer demand and Amazon mechanics, but it's the most competitive path. The **[sourcing-agent model (D)](model-d-sourcing-agent.md)** is a lower-capital way to build the supplier relationships this model needs, and **[B2B wholesale (C)](model-c-b2b-wholesale.md)** is often a calmer, stickier home for the same India-made products. Shared compliance/customs/landed-cost detail lives in [business-plan.md](business-plan.md).
+White label teaches consumer demand and Amazon mechanics, but it's the most competitive path. The **[sourcing-agent model (D)](model-d-sourcing-agent.md)** is a lower-capital way to build the supplier relationships this model needs, and **[B2B wholesale (C)](model-c-b2b-wholesale.md)** is often a calmer, stickier home for the same India-made products.
+
+**When to move:**
+- **Into B (from D or C):** when you've identified a *consumer* product with demand and want B2C reach/margin — and you already have a vetted supplier and some cash from the other tracks. Don't start cold here if you're capital-light.
+- **B → [A (private label)](model-a-private-label.md):** the key graduation. Once a white-label SKU is a *proven winner* (steady daily sales, net margin holding, reorders working), invest in your own design, packaging, and brand to capture premium pricing and build a defensible moat. **Validate with white label first, then commit capital to private label — not the other way around.**
+- **B → multi-channel:** once a product is proven on Amazon, expand to Walmart Marketplace, eBay, and your own Shopify (for the customer relationship Amazon denies you). Don't open these before Amazon proves the product.
+
+Shared compliance/customs/landed-cost detail lives in [business-plan.md](business-plan.md).

@@ -17,6 +17,30 @@
 
 ---
 
+## ⚠️ The hard parts: central challenges & how to deal
+
+B2B looks calmer than Amazon, and in some ways it is — but it has its own structural traps. Go in expecting these:
+
+1. **You finance everyone. (The cash-flow killer.)** You often pay your Indian supplier a deposit *before* production, then wait weeks for ocean freight, then extend the *buyer* Net 30/60. You're financing both inventory *and* receivables at once. A single large PO can put you cash-negative for months even while "profitable."
+   - **Deal with it:** require deposits on first orders; offer small early-pay discounts (e.g., 2% net-10); start buyers on shorter terms and extend only after they've proven reliable; build a cash buffer before chasing big POs; use invoice factoring only once volume justifies the cost.
+
+2. **Displacing an incumbent supplier is genuinely hard.** A contractor or distributor already has a vendor they trust. Switching costs, relationships, and "nobody got fired for reordering the usual" all favor the incumbent. Price alone rarely flips them.
+   - **Deal with it:** lead with a *risk-reduced trial* (sample + small pilot PO), not a full switch; compete on reliability and your compliance paperwork, not just price; find buyers who are *already unhappy* (late deliveries, quality issues, a China-tariff cost spike) — they're the ones who actually move.
+
+3. **Long, unpredictable sales cycles.** Weeks-to-months to first revenue. Easy to starve while waiting.
+   - **Deal with it:** keep a wide pipeline; never bet on one whale; use sample-led selling to compress cycles; run [Model D](model-d-sourcing-agent.md) in parallel for near-term cash.
+
+4. **Buyer concentration.** Land one big account and it's tempting to lean on it — until it leaves, renegotiates, or pays late, and takes your business with it.
+   - **Deal with it:** don't let any single account exceed ~25–30% of revenue; keep adding accounts even when the big one is happy.
+
+5. **Disintermediation still exists here — just one layer up.** A distributor you supply can discover your Indian factory and go direct, the same way a buyer can cut out an agent.
+   - **Deal with it:** the buy/sell structure already obscures the factory on your paperwork — keep it that way; own the QC, logistics, and stocking that make "going direct" more work than it's worth; consider light private-label/branding so the product is identified with *you*, not the factory.
+
+6. **Compliance is 100% yours (you're the IOR).** Unlike Model D, there's no client absorbing the regulatory liability.
+   - **Deal with it:** real UL/ETL/CPSC/DOE; certificate data ready for **CPSC eFiling (July 8, 2026)**; use a customs broker. In B2B this is also a *selling point* — contractors and distributors require listed products.
+
+---
+
 ## Best categories for B2B (India-advantaged, low consumer-return risk)
 
 | Category | Who buys it | Why it works |
@@ -135,6 +159,14 @@ Cheapest revenue is the next order from a happy buyer. After a first PO: check i
 
 ---
 
-## How this connects to the other models
+## How this connects — and when to move
 
-B2B pairs naturally with the **[sourcing-agent model (D)](model-d-sourcing-agent.md)** — the supplier bench and category knowledge you build there feed directly into a wholesale line. Many operators start as a sourcing agent, find a category with repeatable demand, then stock it and sell wholesale. See [business-plan.md](business-plan.md) for shared compliance, customs, and supplier-vetting detail.
+B2B pairs naturally with the **[sourcing-agent model (D)](model-d-sourcing-agent.md)** — the supplier bench and category knowledge you build there feed directly into a wholesale line. Many operators start as a sourcing agent, find a category with repeatable demand, then stock it and sell wholesale.
+
+**When to move:**
+- **Into C (from D):** when a category shows *repeatable* B2B demand and you're ready to own inventory for defensibility and bigger margin per relationship. C is the durable home for a sourcing relationship.
+- **C alongside [B (white label)](model-b-white-label.md):** if the *same product* also has consumer demand, run a B2C Amazon listing in parallel — same supplier, two channels, shared compliance cost.
+- **C → light private label ([Model A](model-a-private-label.md)):** when buyers value the product being *yours* (your brand, your warranty, your spec), graduate to branded goods to lock in the relationship and raise margin.
+- **Stay in C (don't force B):** if your category is inherently B2B (industrial LED, components, PCBA), there may be no reason to chase the crowded consumer channel at all.
+
+See [business-plan.md](business-plan.md) for shared compliance, customs, and supplier-vetting detail.
