@@ -1,6 +1,6 @@
 # Model D — Complete Startup Checklist (Sourcing Agent)
 
-> A soup-to-nuts checklist for launching the [sourcing-agent business](model-d-sourcing-agent.md). It's intentionally exhaustive — small items and big items both — so you don't hit a surprise gap later. Work top to bottom; phases roughly build on each other, but you can parallelize within a phase. Check items off as you go.
+> A soup-to-nuts checklist for launching the [sourcing-agent business](model-d-sourcing-agent.md). It's intentionally exhaustive — small items and big items both — so you don't hit a surprise gap later. Work top to bottom as the default order, but **don't treat it as strictly serial**: the wait-bound (⏳) items — profile/account warming, email-domain warm-up, supplier vetting, entity/bank setup — should run *across* phases in parallel, started early, because calendar time (not your hours) is the constraint. See the "Start-now background track" below. Check items off as you go.
 
 > Shared compliance/customs/supplier detail lives in [business-plan.md](business-plan.md). The strategy and lead-gen rationale are in [model-d-sourcing-agent.md](model-d-sourcing-agent.md).
 
@@ -27,6 +27,16 @@ Estimates assume a **side-business pace (~10–15 hrs/week)** and are approximat
 | 10 — Operating cadence | ongoing | — |
 
 **Bottom line:** roughly **6–10 weeks part-time** to reach the [minimum-viable subset](#quick-absolute-minimum-to-take-a-first-client-subset) for taking a first client. The bottlenecks are *wait-bound* (supplier vetting/samples, email warm-up, entity/bank setup) — kick those off early rather than working strictly top-to-bottom.
+
+### 🔁 Start-now background track (run from week 1, alongside everything else)
+
+These take weeks of low-intensity activity you can't compress later — so start them on day one and let them run while you work the phases:
+- **LinkedIn profile live + warming** — optimize it (Phase 3), then *continuously* connect with your real network and genuine industry contacts and post ~1–2x/week. Goal: an active, credible, aged account by the time you pitch (not a cold shell).
+- **Entity + bank setup** (Phase 2) — start early; approval/processing is ⏳ out of your hands.
+- **Supplier outreach** (Phase 5) — message factories early so samples are *in transit* (~1–3 wks ⏳) while you do other phases.
+- **Email-domain warm-up** (Phase 7) — start ~3 weeks *before* you intend to send cold email, i.e. during Phase 3–4, so it's ready exactly when your bench and scripts are.
+
+**Hold until the supply side (Phase 5) + offer (Phase 6) + scripts (Phase 7) are ready:** high-volume cold connection requests and actually *pitching clients*. Warm and build presence early; switch on full outreach only once you can credibly deliver.
 
 ---
 
@@ -142,8 +152,8 @@ Estimates assume a **side-business pace (~10–15 hrs/week)** and are approximat
 - [ ] Optimize your **personal profile**: headline = positioning one-liner, About section = value props + the India/tariff angle, banner image, professional photo — **ready-to-use copy in [linkedin-profile-template.md](linkedin-profile-template.md)**
 - [ ] Create a **company page** for your LLC
 - [ ] Decide on **LinkedIn Sales Navigator** (worth it for filtered prospecting — start the trial when you're ready to prospect, not before)
-- [ ] Connect with relevant people (existing network first, then targeted) to warm up the account before heavy outreach
-- [ ] Draft 3–5 **content posts** for credibility (e.g., "China→India for one SKU without blowing up your duty bill")
+- [ ] *(ongoing, from week 1)* Connect with relevant people (existing network first, then targeted) to warm up and age the account before heavy outreach — this is continuous, not one-and-done
+- [ ] *(ongoing, ~1–2x/week)* Post **credibility content** (e.g., "China→India for one SKU without blowing up your duty bill") so prospects who click your profile see an active, knowledgeable operator
 
 ### Other presence (optional but useful)
 - [ ] Google Business Profile (if you want local/searchable presence)
@@ -241,7 +251,7 @@ Estimates assume a **side-business pace (~10–15 hrs/week)** and are approximat
 - [ ] Prepare the **capability deck / one-pager** to send after a good call
 
 ### Warm-up & deliverability
-- [ ] Warm up the **separate cold-email domain** (2–3 weeks before volume sending)
+- [ ] Warm up the **separate cold-email domain** (2–3 weeks before volume sending) — ⏳ **start this back in Phase 3–4, not now**, so it finishes warming exactly when your bench + scripts are ready
 - [ ] Verify email list (reduce bounces) before sending
 - [ ] Confirm SPF/DKIM/DMARC pass
 
