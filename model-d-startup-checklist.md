@@ -87,10 +87,13 @@ These take weeks of low-intensity activity you can't compress later — so start
 
 ### Pick 2–3 focus categories (don't be a generalist)
 - [ ] List categories where **India has a genuine edge** and you have some affinity (e.g., wired audio, LED/lighting, cable & harness assemblies, PCB/PCBA, enclosures, STEM/education hardware)
-- [ ] For each candidate category, quick-research:
+- [ ] For each candidate category, quick-research **like an agent, not a seller** (you're choosing where to find *clients and factories*, not a SKU to sell):
   - [ ] Is there U.S. demand / who buys it (consumer brands, OEMs, distributors, installers)?
+  - [ ] **Density of reachable U.S. buyers** — are there enough companies you can actually prospect? (No buyers = no clients, even for a great product.)
+  - [ ] **Recurring / reorder demand** — do buyers reorder? Repeat fees beat one-offs and fight disintermediation.
+  - [ ] **Value-add / complexity sweet spot** — complex enough that they *need* you (vetting, QA, compliance), not so simple they'll DIY off Alibaba.
   - [ ] Rough compliance burden (FCC? UL/ETL? CPSC?) — favor lower-complexity to start
-  - [ ] Whether India suppliers visibly exist on IndiaMart/TradeIndia
+  - [ ] Whether India suppliers visibly exist on IndiaMart/TradeIndia (your supply-side depth)
   - [ ] Whether China is the incumbent (your Section 301 switching pitch applies)
 - [ ] Narrow to **2–3 categories** you'll specialize in and message around
 
@@ -233,6 +236,7 @@ These take weeks of low-intensity activity you can't compress later — so start
 - [ ] Write a **simple proposal/quote template** for each model
 - [ ] Decide **deposit terms** (e.g., 50% to start a Sprint) and refund policy
 - [ ] Set up **invoicing** in your accounting tool
+- [ ] **Model a sample deal end-to-end** before you quote anyone — full landed-cost line items + your fee under each pricing model + your expenses + net + implied hourly. Build it as a reusable spreadsheet. See **Appendix A** at the end of this doc for a worked example.
 
 ---
 
@@ -273,6 +277,7 @@ These take weeks of low-intensity activity you can't compress later — so start
 ## Phase 9 — Deliver the first engagement (be ready before you sell)
 
 - [ ] **Intake & spec lock:** capture product, target cost, MOQ, certs needed, packaging, timeline; version the spec doc
+- [ ] **Feasibility / go–no-go research** *(before you accept or quote — this is the per-deal "product research" you'll do every time)*: can India make this well, at a roughly competitive landed cost, with the right compliance — and is there a real supplier? Quick pass on India supply depth, HTS/duty ([hts.usitc.gov](https://hts.usitc.gov)), compliance path (FCC/UL/CPSC/DOE?), and ballpark cost vs. what the client pays today. **Decline or re-scope if it doesn't pencil out** — taking a deal you can't deliver burns your reputation.
 - [ ] **Shortlist 3–5 vetted factories** from your bench (or source new ones)
 - [ ] **Issue RFQs**, collect quotes at tiers, **order samples**
 - [ ] **Build a decision-ready comparison** for the client (price, quality, compliance, lead time, risk) — *this report is your value*
@@ -311,3 +316,61 @@ If you want the shortest path to legitimately accepting your first paid engageme
 - [ ] E&O insurance quote in hand (bind before advising for fees)
 
 Everything else strengthens the business — but with the list above you can responsibly land and deliver deal #1.
+
+---
+
+## Appendix A — Worked Example: One Deal, End to End
+
+> **Illustrative only** — every number changes with the product, supplier, freight market, and HTS code. The point is to see all the line items and, crucially, where *your* money actually comes from. Build this as a live spreadsheet you reuse per deal.
+
+**Scenario:** A U.S. brand wants **2,000 units** of a wired LED under-cabinet light (no FCC; UL/ETL on the driver) manufactured in India. You sourced and vetted the factory and are running the deal.
+
+### Part A — The deal's full landed cost (what it costs to land the goods in the U.S.)
+
+| Line item | Amount | Notes |
+|---|---|---|
+| Factory price (FOB) — 2,000 × $6.50 | $13,000 | negotiated unit price |
+| Export packing | $400 | sometimes included in FOB — confirm |
+| Ocean freight (LCL, India → U.S.) | $1,800 | market-dependent |
+| Insurance (~0.5% of goods) | $70 | |
+| U.S. customs duty (~3.9% of FOB) | $507 | ⚠️ verify exact HTS rate |
+| Customs broker + ISF + entry | $250 | |
+| Drayage + last-mile to client/3PL | $600 | |
+| **Total landed cost** | **$16,627** | **≈ $8.31/unit** |
+
+This is the buyer's cost to get goods in hand, *before* your fee. A $6.50 FOB part lands around **$8.31/unit**.
+
+### Part B — How *you* get paid on this same deal (pick a model)
+
+| Pricing model | Your revenue | How it's computed |
+|---|---|---|
+| **Commission** (8% of FOB goods) | **$1,040** | 8% × $13,000 |
+| **Buy/sell markup** (12% on goods) | **$1,560** | buy at $13,000, sell goods to client at $14,560 |
+| **Flat "Sourcing Sprint" + success fee** | **$2,000 + ~$800** | $2,000 to find/vet/sample + a smaller success fee on the PO |
+
+### Part C — Your expenses on the deal
+
+| Expense | Amount | Pass-through? |
+|---|---|---|
+| Supplier samples + air shipping | $250 | **Bill to client** (or fold into Sprint fee) → ~$0 to you |
+| Pre-shipment inspection (QC partner) | $300 | **Bill to client / add-on** → ~$0 to you |
+| Wire / FX fees | $100 | your cost (or pass through) |
+| Tools allocated to this deal (CRM, ImportYeti, email, Sales Nav) | ~$150 | your cost |
+| **Your real out-of-pocket** | **~$250** | *if* samples + inspection are billed through |
+
+> **Pass-through matters:** if you *eat* samples + inspection, your costs jump to ~$800 and a small commission deal barely nets. Bill those to the client (or bundle into the Sprint fee) and they're ~neutral to you.
+
+### Part D — Your net on the deal
+
+| Model | Revenue | − Real expenses | **Net** | ÷ ~30 hrs ≈ |
+|---|---|---|---|---|
+| Commission (8%) | $1,040 | $250 | **$790** | ~$26/hr |
+| Buy/sell (12%) | $1,560 | $250 | **$1,310** | ~$44/hr |
+| Sprint + success | $2,800 | $250 | **$2,550** | ~$85/hr |
+
+### What this example teaches
+
+- **A single small one-off is thin.** $790 net for ~30 hours on a commission deal is a side gig, not a business. The economics work through **scale (bigger orders), recurring reorders, buy/sell markup, and flat Sprint fees** — not one-time commissions.
+- **Always bill pass-through costs** (samples, inspection) to the client — eating them can wipe out a small deal's margin.
+- **Buy/sell roughly doubles your take *and* defends against disintermediation** (you're the seller of record) — at the cost of payment risk and possibly being the IOR.
+- **Your real leverage is reorders and retainers.** The same vetted factory + a client who reorders quarterly turns one $790 deal into recurring income at near-zero repeat cost. That's the [D → C](model-c-b2b-wholesale.md) signal.
