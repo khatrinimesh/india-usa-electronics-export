@@ -49,6 +49,8 @@ And the risk is worst exactly when it matters: **it scales with order size and f
 
 ---
 
+> 📋 **For an exhaustive, check-it-off task list covering everything below and more, see the [Model D Startup Checklist](model-d-startup-checklist.md).**
+
 ## Setup (1–2 weeks, under ~$1,000)
 
 1. **Entity + basics:** U.S. LLC, EIN, business bank account (Mercury), business email on your own domain. You already know this from your IT work.
