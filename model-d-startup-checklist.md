@@ -6,6 +6,30 @@
 
 ---
 
+## ⏱ Time & effort at a glance
+
+Estimates assume a **side-business pace (~10–15 hrs/week)** and are approximate. There are two kinds of time:
+- **⚙️ Effort-bound** — gated by *your* hours; more hours = faster.
+- **⏳ Wait-bound** — gated by *others* (supplier replies, sample shipping, email-domain warm-up, LLC/bank processing). More hours won't speed these up — so **start them early and run them in parallel**.
+
+| Phase | Your effort | Calendar (part-time) |
+|---|---|---|
+| 0 — Learn the landscape | ~8–12 hrs | ~1 week |
+| 1 — Focus & positioning | ~4–6 hrs | 2–4 days |
+| 2 — Legal & business ⏳ | ~4–6 hrs | 1–2 weeks (processing) |
+| 3 — Online presence | ~10–16 hrs | ~1 week |
+| 4 — Tools & systems | ~6–10 hrs | 3–5 days |
+| 5 — Supply side ⏳ | ~15–25 hrs | 2–4 weeks (samples) |
+| 6 — Offer & pricing | ~3–5 hrs | 1–2 days |
+| 7 — Demand engine ⏳ | ~10–15 hrs | ~1 wk + 2–3 wk email warm-up |
+| 8 — Outreach & convert | ongoing | first deal in ~1–3 months |
+| 9 — Deliver first deal ⏳ | per-deal | ~3–5 weeks (mostly waiting) |
+| 10 — Operating cadence | ongoing | — |
+
+**Bottom line:** roughly **6–10 weeks part-time** to reach the [minimum-viable subset](#quick-absolute-minimum-to-take-a-first-client-subset) for taking a first client. The bottlenecks are *wait-bound* (supplier vetting/samples, email warm-up, entity/bank setup) — kick those off early rather than working strictly top-to-bottom.
+
+---
+
 ## Phase 0 — Learn the language & the landscape
 
 ### Industry terms to actually understand (not just recognize)
@@ -37,7 +61,7 @@
 
 ### Foundational homework
 - [ ] Read the full [Model D playbook](model-d-sourcing-agent.md) and [business-plan.md](business-plan.md)
-- [ ] **Study how real operators run this model** — work through [reference-operators-to-learn-from.md](reference-operators-to-learn-from.md):
+- [ ] **Study how real operators run this model** *(~4–6 hrs)* — work through [reference-operators-to-learn-from.md](reference-operators-to-learn-from.md):
   - [ ] Listen to several of Meghla Bhardwaj's podcast/webinar appearances (densest free India-sourcing playbook)
   - [ ] Read AISG's and Panoramic Sourcing's websites like a competitor (positioning, service tiers, pricing cues)
   - [ ] Watch 1–2 "how to be a sourcing agent" videos for operational mechanics (vetting, negotiation, QC)
@@ -76,7 +100,7 @@
 - [ ] Form the LLC (state portal or Stripe Atlas / Firstbase / LegalZoom)
 - [ ] Get a **registered agent** (required; can be a service)
 - [ ] Draft an **operating agreement** (even solo — banks/clients may ask)
-- [ ] Apply for **EIN** with the IRS (free, online, same day)
+- [ ] Apply for **EIN** with the IRS (free, online, same day; ⏳ LLC approval itself can take days to ~2 weeks depending on state)
 - [ ] Check city/county **business license** requirements for your address
 - [ ] Note **home-office / zoning** rules if operating from home (usually fine for a service business)
 
@@ -108,7 +132,7 @@
 - [ ] Configure **SPF/DKIM/DMARC** so cold outreach lands in inboxes (your IT skills help here)
 
 ### Website (1 page is enough to start)
-- [ ] Build a simple site (Carrd, Framer, Webflow, or a static site)
+- [ ] Build a simple site (Carrd, Framer, Webflow, or a static site) *(~6–10 hrs, or ~2 hrs from a template)*
 - [ ] Sections: who you help, what you do, **why India** (+ tariff angle), your process, proof/credibility, **"book a call"** CTA
 - [ ] List your **productized offer** (the "Sourcing Sprint" — see Phase 5)
 - [ ] Add a **contact form** and a **Calendly/Cal.com** booking link
@@ -154,6 +178,8 @@
 ## Phase 5 — Build your supply side (do this BEFORE heavy outreach)
 
 > You want to credibly say "I already have vetted partners for X" before you pitch. A bench of real factories is your inventory.
+>
+> ⏳ **This is the biggest wait-bound phase.** Your ~15–25 hrs of effort spread over 2–4 weeks of calendar time, because supplier replies and **sample shipping (~1–3 weeks)** set the pace. Start outreach to factories early so samples are in transit while you do other phases.
 
 ### Find candidate factories
 - [ ] Search **IndiaMart**, **TradeIndia**, **ExportHub** for your lead category
